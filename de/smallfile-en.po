@@ -8,7 +8,7 @@ msgstr "Ein Screenshot, der die Amp-Sidebar zeigt."
 
 #: /views/partials/format-visuals/websites.j2:7
 msgid "A website screenshot."
-msgstr ""
+msgstr "Ein Website-Screenshotd."
 
 #: /views/partials/footer.j2:74
 msgid "AMP Brand Materials"
@@ -24,7 +24,7 @@ msgstr "AMP-Conf 2020"
 
 #: /views/partials/footer.j2:72
 msgid "AMP Contributor Summit 2019"
-msgstr ""
+msgstr "AMP Contributor Summit 2010"
 
 #: /views/partials/banner.j2:5
 msgid "AMP Contributor Summit 2019 Applications Now Open"
